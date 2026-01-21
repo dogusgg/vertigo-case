@@ -71,9 +71,11 @@ If only one improvement can be prioritized:
 Long-term retention and monetization efficiency outweigh short-term revenue uplifts.
 
 *  I took ARPPU as $5 since mobile FPS games(PUBG, Fortnite, Free Fire) are microtransaction heavy games but I may underestimate it for Critical Strike case since it is still scaling and may have a bigger ARPPU
+
 ** Results are affected by ARPPU assumption, for lower ARPPU assumptions ads revenue may become more important and variantB may not beat variantA in day30 cumulative revenue
 
 ---
 
 ## Release
 Final version tagged as **v1.0**
+
