@@ -19,7 +19,7 @@ Evaluate two difficulty-flow variants using cohort-based modeling to determine:
 
 ## DAU Evolution
 
-![DAU Curves](outputs/dau_curves.png)
+![DAU Curves](outputs/task1_dau_curves.png)
 
 Variant A shows stronger early retention, but Variant B overtakes after Day 15 due to significantly stronger mid-game and late-game retentions.
 
@@ -27,7 +27,7 @@ Variant A shows stronger early retention, but Variant B overtakes after Day 15 d
 
 ## Cumulative Revenue
 
-![Cumulative Revenue](outputs/cumulative_revenue.png)
+![Cumulative Revenue](outputs/task1_cumulative_revenue.png)
 
 While Variant B performs slightly better in the short term, however it consistently generates higher cumulative revenue as the time horizon extends.
 
@@ -35,7 +35,7 @@ While Variant B performs slightly better in the short term, however it consisten
 
 ## Revenue Comparison
 
-![Final Decision](outputs/final_decision.png)
+![Final Decision](outputs/task1_final_decision.png)
 
 - **Day 15:** Variant B slightly ahead  
 - **Day 30:** Variant B clearly ahead  
@@ -46,7 +46,7 @@ This confirms that Variant B is the superior long-term choice.
 
 ## Scenario 1 – Temporary Sale Uplift (Day 15–25)
 
-![Sale Scenario](outputs/revenue_sale_uplift_day30.png)
+![Sale Scenario](outputs/task1_revenue_sale_uplift_day30.png)
 
 A temporary purchase-rate boost benefits both variants, but Variant B gains more due to its larger active user base.
 
@@ -54,7 +54,7 @@ A temporary purchase-rate boost benefits both variants, but Variant B gains more
 
 ## Scenario 2 – New Permanent User Source
 
-![New Source](outputs/revenue_new_source_day30.png)
+![New Source](outputs/task1_revenue_new_source_day30.png)
 
 Introducing a permanent user source amplifies Variant B’s advantage due to its slower retention decay.
 
@@ -284,3 +284,4 @@ Polygun Arena:  A93530556BE8BED4
 
 ## Release
 Final version tagged as **v1.0**
+
